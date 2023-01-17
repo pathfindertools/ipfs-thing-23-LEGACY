@@ -13,8 +13,8 @@
   "nav": {
     "navButtons": [
       {
-        "label": "Schedule",
-        "link": "#",
+        "label": "Register",
+        "link": "https://lu.ma/ipfsthing2023",
         "buttonStyle": "gradient"
       }
     ],
