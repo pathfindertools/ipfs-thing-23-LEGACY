@@ -8,7 +8,7 @@ blocks:
       labelStyles: 'text-white mg-copy-small '
       headlineStyles: 'text-white mg-headline-medium '
       subheadStyles: text-white mg-headline-medium mb-7
-      textStyles: text-white mg-copy-medium mb-12
+      textStyles: text-white mg-copy-medium mb-5
     background:
       fillStyles: from-accent3 to-black bg-gradient-to-br opacity-100
       ornaments:

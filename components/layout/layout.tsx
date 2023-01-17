@@ -230,6 +230,9 @@ export const Layout = ({ rawData, data = layoutData, children }) => {
             .markdown a {
               text-decoration: underline;
             }
+            .markdown p {
+              margin: inherit;
+            }
             ${buttonClasses()}
             ${typographyClasses()}
             
