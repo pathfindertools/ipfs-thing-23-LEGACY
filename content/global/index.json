@@ -21,6 +21,6 @@
     "navAlignment": "text-center",
     "navTypeStyle": "text-black mg-copy-medium ",
     "navBackgroundColor": "bg-white opacity-100",
-    "padding": "pt-5 pb-3.5 pr-10 pl-10"
+    "padding": "pt-3.5 pb-3.5 pr-10 pl-10"
   }
 }
