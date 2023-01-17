@@ -55,10 +55,13 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Headline
-        subhead: Answer Headline
-        text: |
-          Answer
+      - headline: What is IPFS Thing?
+        subhead: ''
+        text: >
+          IPFS þing is a collaborative workshop series for the IPFS implementors
+          community. There will be talks, workshops, discussion circles,
+          co-working and hacking time, and more — all focused on advancing IPFS
+          implementations.
       - headline: Headline
         subhead: Answer Headline
         text: |
@@ -117,5 +120,6 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
