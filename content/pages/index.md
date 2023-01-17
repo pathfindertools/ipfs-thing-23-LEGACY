@@ -93,6 +93,10 @@ blocks:
           accommodations. Several hotel blocks are being reserved and will be
           added here when confirmed; you are also free to book your own
           accommodations.
+      - headline: 'Can I become a sponsor, what does that include?'
+        text: >
+          Yes! We offer multiple levels of sponsorship \[add sponsorship
+          details]
     navigationLabel: FAQ
     _template: accordian
   - style:
@@ -143,6 +147,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
