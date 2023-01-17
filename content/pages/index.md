@@ -73,10 +73,18 @@ blocks:
           you to IPFS Camp, an epic decentralized event organized by the
           community, for the community. Details on IPFS Camp are coming soon and
           will be announced on [Twitter](https://twitter.com/ipfs).
-      - headline: Headline
-        subhead: Answer Headline
+      - headline: How does the track system work?
+        subhead: ''
+        text: >
+          This is a choose-your-own-adventure event, so please choose the
+          track(s), sessions, arrival and departure dates, and activities that
+          are interesting and relevant to you. We are actively working on
+          putting together an amazing schedule. We want your suggestions,
+          feedback, and additions here \[add link]. Please jump in to help make
+          this thing a thing that helps you.
+      - headline: How do I participate in IPFS Thing?
         text: |
-          Answer
+          First, make sure to register [here](https://lu.ma/ipfsthing2023)
     navigationLabel: FAQ
     _template: accordian
   - style:
@@ -127,6 +135,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
