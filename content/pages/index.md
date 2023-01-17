@@ -70,7 +70,9 @@ blocks:
     navigationLabel: FAQ
     _template: accordian
   - style:
-      alignment: flex-row-reverse items-start gap-4
+      alignment: >-
+        flex-row-reverse items-start gap-4 sm:flex-col-reverse sm:items-start
+        sm:gap-4
       padding: pt-20 pb-20 pr-10 pl-10
       featureContent: w-3/5 min-h-0 text-left
       labelStyles: text-black undefined undefined
