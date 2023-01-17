@@ -5,13 +5,15 @@
   "fathomSiteId": "",
   "theme": "content/themes/protocol.md",
   "logo": {
-    "logoTypeStyle": "",
-    "image": ""
+    "logoTypeStyle": "undefined undefined ",
+    "image": "/uploads/dot-cube.svg",
+    "imageWidth": "50",
+    "imageHeight": "50"
   },
   "nav": {
-    "navAlignment": "text-right",
-    "navTypeStyle": "text-accent2 mg-body-sm ",
-    "navBackgroundColor": " opacity-100",
-    "padding": "pt-7 pb-10 pr-10 pl-8"
+    "navAlignment": "text-center",
+    "navTypeStyle": "text-black mg-copy-medium ",
+    "navBackgroundColor": "bg-white opacity-100",
+    "padding": "pt-6 pb-6 pr-10 pl-10"
   }
 }
