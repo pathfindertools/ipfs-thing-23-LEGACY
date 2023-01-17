@@ -11,9 +11,16 @@
     "imageHeight": "50"
   },
   "nav": {
+    "navButtons": [
+      {
+        "label": "Schedule",
+        "link": "#",
+        "buttonStyle": "gradient"
+      }
+    ],
     "navAlignment": "text-center",
     "navTypeStyle": "text-black mg-copy-medium ",
     "navBackgroundColor": "bg-white opacity-100",
-    "padding": "pt-6 pb-6 pr-10 pl-10"
+    "padding": "pt-5 pb-3.5 pr-10 pl-10"
   }
 }

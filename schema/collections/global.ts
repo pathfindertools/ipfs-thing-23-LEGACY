@@ -149,6 +149,39 @@ export const globalCollectionSchema: any = {
           ]
         },
         {
+          label: "Buttons",
+          description: "Buttons in the header bar",
+          name: "navButtons",
+          list: true,
+          type: "object",
+          ui: {
+            component: "itemListField",
+            defaultItem: {
+              label: "Nav Item",
+              link: "/",
+            },
+          },
+          fields: [
+            {
+            label: "Label",
+            name: "label",
+            type: "string"
+            }, {
+              label: "Link",
+              name: "link",
+              description: "Items with Sub Navigation will ignore this link",
+              type: "string",
+            }, {
+              type: "string",
+              label: "Button Style",
+              name: "buttonStyle",
+              ui: {
+                component: "buttonControl",
+              },
+            },
+          ]
+        },
+        {
           label: "Alignment",
           name: "navAlignment",
           type: "string",
