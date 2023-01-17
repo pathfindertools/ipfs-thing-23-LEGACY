@@ -114,6 +114,8 @@ meta:
   title: IPFS þing
   description: >-
     IPFS þing is a week-long gathering for the IPFS implementors community.
-    There will be talks, workshops, discussion circles, hacking time, and more.
+    There will be talks, workshops, discussion circles, hacking time, and more
+    focused entirely on the advancement of IPFS implementations.
 ---
+
 
