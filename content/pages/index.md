@@ -121,6 +121,11 @@ blocks:
           broader schedule, give feedback, and help to make your event great.
           We'll get you set up with AV gear, a room, and other logistical
           support as needed.
+      - headline: Will there be recordings or live virtual sessions I can attend?
+        text: ''
+      - headline: What about childcare?
+        text: |
+          Please email EMAIL@protocol.ai and we will do our best to accommodate.
     navigationLabel: FAQ
     _template: accordian
   - style:
@@ -171,6 +176,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
