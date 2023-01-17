@@ -67,6 +67,7 @@ blocks:
         subhead: Answer Headline
         text: |
           Answer
+    navigationLabel: FAQ
     _template: accordian
 backgroundColor: white
 meta:
