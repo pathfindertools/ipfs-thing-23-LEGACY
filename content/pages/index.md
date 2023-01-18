@@ -51,7 +51,7 @@ blocks:
       subheadStyles: text-gray-dark mg-copy-medium undefined
       textStyles: text-gray-dark mg-copy-medium undefined
     label: ''
-    headline: FAQ
+    headline: FAQ's
     subhead: ''
     body: ''
     items:
@@ -191,6 +191,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
