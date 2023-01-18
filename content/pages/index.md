@@ -124,8 +124,9 @@ blocks:
       - headline: Will there be recordings or live virtual sessions I can attend?
         text: ''
       - headline: What about childcare?
-        text: |
-          Please email EMAIL@protocol.ai and we will do our best to accommodate.
+        text: >
+          Please email [ipfs-thing-2023@ipfs.io](mailto:ipfs-thing-2023@ipfs.io)
+          and we will do our best to accommodate.
       - headline: How do I contact the organizers?
         text: >
           You can reach out to us at
@@ -180,6 +181,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
