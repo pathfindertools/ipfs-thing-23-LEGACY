@@ -96,7 +96,7 @@ blocks:
       - headline: 'Can I become a sponsor, what does that include?'
         text: >
           Yes! We offer multiple levels of sponsorship \[add sponsorship
-          details]
+          details].&#x20;
       - headline: How can I lead a track?
         text: >
           Here's what's involved:
@@ -181,6 +181,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
