@@ -68,11 +68,18 @@ blocks:
           This event brings together maintainers or core contributors of an IPFS
           implementation, ranging from production usage to working demos. If
           this describes you, please join! If you are unsure, email
-          EMAIL@protocol.ai. If you are an IPFS user, tooling developer,
-          collaborator, or curious community member, we enthusiastically invite
-          you to IPFS Camp, an epic decentralized event organized by the
-          community, for the community. Details on IPFS Camp are coming soon and
-          will be announced on [Twitter](https://twitter.com/ipfs).
+          [ipfs-thing-2023@ipfs.io](mailto:ipfs-thing-2023@ipfs.io). \
+
+          \
+
+          If you are an IPFS user, tooling developer, collaborator, or curious
+          community member, we enthusiastically invite you to IPFS Camp, an epic
+          decentralized event organized by the community, for the community. \
+
+          \
+
+          Details on IPFS Camp 2023 are coming soon and will be announced on
+          [Twitter](https://twitter.com/ipfs).
       - headline: How does the track system work?
         subhead: ''
         text: >
@@ -184,6 +191,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
