@@ -84,7 +84,7 @@ blocks:
           this thing a thing that helps you.
       - headline: How do I participate in IPFS Thing?
         text: |
-          First, make sure to register [here](https://lu.ma/ipfsthing2023)
+          First, make sure to register [here!](https://lu.ma/ipfsthing2023)
       - headline: Is there a cost to participate?
         text: >
           Yes, the event will be ticketed with different pricing tiers \[add
@@ -122,7 +122,10 @@ blocks:
           We'll get you set up with AV gear, a room, and other logistical
           support as needed.
       - headline: Will there be recordings or live virtual sessions I can attend?
-        text: ''
+        text: >
+          Recordings will be uploaded to our [IPFS Youtube
+          channel](https://www.youtube.com/@IPFSbot). Please check there for any
+          updates.&#x20;
       - headline: What about childcare?
         text: >
           Please email [ipfs-thing-2023@ipfs.io](mailto:ipfs-thing-2023@ipfs.io)
@@ -181,6 +184,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
