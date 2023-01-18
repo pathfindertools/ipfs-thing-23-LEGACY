@@ -30,7 +30,7 @@ blocks:
       FAQ and more details coming soon.
     buttons:
       - label: Register
-        link: '#'
+        link: 'https://lu.ma/ipfsthing2023'
         buttonStyle: primary
         fathomId: ''
     _template: feature
@@ -126,6 +126,10 @@ blocks:
       - headline: What about childcare?
         text: |
           Please email EMAIL@protocol.ai and we will do our best to accommodate.
+      - headline: How do I contact the organizers?
+        text: >
+          You can reach out to us at
+          [ipfs-thing-2023@ipfs.io](mailto:ipfs-thing-2023@ipfs.io)
     navigationLabel: FAQ
     _template: accordian
   - style:
@@ -176,6 +180,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
