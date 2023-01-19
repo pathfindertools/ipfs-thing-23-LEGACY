@@ -19,7 +19,7 @@ blocks:
       src: /uploads/event-logo.svg
       alt: IPFS Thing Brussels Belgium 2023
     label: ''
-    headline: April 15th - 19th 2023
+    headline: 'April 15th - 19th, 2023'
     subhead: 'Brussels, Belgium'
     body: >
       IPFS þing is a week-long gathering for the IPFS implementors community.
@@ -188,6 +188,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
