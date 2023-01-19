@@ -23,8 +23,8 @@ blocks:
     subhead: 'Brussels, Belgium'
     body: >
       IPFS þing is a week-long gathering for the IPFS implementors community.
-      There will be talks, workshops, discussion circles, hacking time, and more
-      — all focused on advancing IPFS implementations.
+      Everything from talks, workshops, discussion circles, hacking time, and
+      more — all focused on advancing IPFS implementations.
     buttons:
       - label: Pre-register now!
         link: 'https://lu.ma/ipfsthing-preregistration'
@@ -188,6 +188,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
