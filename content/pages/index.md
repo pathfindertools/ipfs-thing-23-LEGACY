@@ -87,8 +87,9 @@ blocks:
           feedback, and additions here \[add link]. Please jump in to help make
           this thing a thing that helps you.
       - headline: How do I participate in IPFS Thing?
-        text: |
-          First, make sure to register [here!](https://lu.ma/ipfsthing2023)
+        text: >
+          First, make sure to pre-register
+          [here](https://lu.ma/ipfsthing-preregistration)!
       - headline: Is there a cost to participate?
         text: >
           Yes, the event will be ticketed with different pricing tiers \[add
@@ -188,6 +189,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
