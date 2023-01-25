@@ -38,7 +38,7 @@ blocks:
     background:
       fillStyles: bg-accent3 opacity-100
     markup: >-
-      <iframe width="560" height="315"
+      <iframe width="800" height="615"
       src="https://www.youtube.com/embed/6dojCBJQmqg" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -92,6 +92,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
