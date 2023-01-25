@@ -32,6 +32,19 @@ blocks:
         fathomId: ''
     _template: feature
   - style:
+      fullWidth: true
+      minHeight: min-h-0
+      padding: pt-10 pb-10 pr-72 pl-72
+    background:
+      fillStyles: bg-accent3 opacity-100
+    markup: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/6dojCBJQmqg" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>
+    _template: embed
+  - style:
       alignment: >-
         flex-row-reverse items-start gap-4 sm:flex-col-reverse sm:items-start
         sm:gap-4
@@ -79,6 +92,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
