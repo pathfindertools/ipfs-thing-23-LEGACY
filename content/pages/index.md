@@ -53,11 +53,13 @@ blocks:
     background:
       fillStyles: bg-accent3 opacity-100
     markup: >-
-      <iframe width="800" height="615" class="mx-auto"
-      src="https://www.youtube.com/embed/6dojCBJQmqg" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture; web-share"
-      allowfullscreen></iframe>
+      <div class="w-full lg:px-6 mb-20 lg:mt-12 lg:mb-28"><div class="max-w-6xl
+      mx-auto"><div class="relative w-full h-0 lg:overflow-hidden lg:rounded-xl"
+      style="padding-top:56.25%"><iframe class="absolute inset-0" width="100%"
+      height="100%" src="https://www.youtube.com/embed/6dojCBJQmqg"
+      title="YouTube video player" frameborder="0" allow="accelerometer;
+      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen=""></iframe></div></div></div>
     _template: embed
   - style:
       alignment: >-
@@ -107,6 +109,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
