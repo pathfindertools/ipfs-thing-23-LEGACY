@@ -44,6 +44,7 @@ blocks:
       fillStyles: bg-accent3 opacity-100
     headline: Check out the IPFS þing 2022 recap!
     subhead: ''
+    body: ''
     _template: feature
   - style:
       fullWidth: true
@@ -52,11 +53,15 @@ blocks:
     background:
       fillStyles: bg-accent3 opacity-100
     markup: >-
+      <div class="mx-auto text-center">
+
       <iframe width="800" height="615"
       src="https://www.youtube.com/embed/6dojCBJQmqg" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen></iframe>
+
+      </div>
     _template: embed
   - style:
       alignment: >-
@@ -106,6 +111,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
