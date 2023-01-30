@@ -32,10 +32,10 @@ blocks:
         fathomId: ''
     _template: feature
   - style:
-      alignment: 'flex-row-reverse items-center '
-      padding: pt-20 pb-0 pr-0 pl-64
+      alignment: 'flex-col-reverse items-center '
+      padding: pt-20 pb-8 pr-0 pl-0
       featureImage: '  mx-auto'
-      featureContent: w-full min-h-0 text-left
+      featureContent: w-full min-h-0 text-center
       labelStyles: text-gray-light undefined undefined
       headlineStyles: 'text-white mg-headline-large '
       subheadStyles: text-black undefined undefined
@@ -111,6 +111,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
