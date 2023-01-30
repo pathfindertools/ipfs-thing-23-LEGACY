@@ -47,9 +47,9 @@ blocks:
     body: ''
     _template: feature
   - style:
-      fullWidth: true
+      fullWidth: false
       minHeight: min-h-0
-      padding: pt-5 pb-24 pr-0 pl-0
+      padding: pt-5 pb-28 pr-0 pl-0
     background:
       fillStyles: bg-accent3 opacity-100
     markup: >-
@@ -109,6 +109,7 @@ meta:
     There will be talks, workshops, discussion circles, hacking time, and more
     focused entirely on the advancement of IPFS implementations.
 ---
+
 
 
 
